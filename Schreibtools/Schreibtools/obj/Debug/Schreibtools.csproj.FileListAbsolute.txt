@@ -1,0 +1,7 @@
+E:\Schule\SJ_2020-21\2020_SEW\20201014\Schreibtools\Schreibtools\Schreibtools\bin\Debug\Schreibtools.exe.config
+E:\Schule\SJ_2020-21\2020_SEW\20201014\Schreibtools\Schreibtools\Schreibtools\bin\Debug\Schreibtools.exe
+E:\Schule\SJ_2020-21\2020_SEW\20201014\Schreibtools\Schreibtools\Schreibtools\bin\Debug\Schreibtools.pdb
+E:\Schule\SJ_2020-21\2020_SEW\20201014\Schreibtools\Schreibtools\Schreibtools\obj\Debug\Schreibtools.csprojAssemblyReference.cache
+E:\Schule\SJ_2020-21\2020_SEW\20201014\Schreibtools\Schreibtools\Schreibtools\obj\Debug\Schreibtools.csproj.CoreCompileInputs.cache
+E:\Schule\SJ_2020-21\2020_SEW\20201014\Schreibtools\Schreibtools\Schreibtools\obj\Debug\Schreibtools.exe
+E:\Schule\SJ_2020-21\2020_SEW\20201014\Schreibtools\Schreibtools\Schreibtools\obj\Debug\Schreibtools.pdb

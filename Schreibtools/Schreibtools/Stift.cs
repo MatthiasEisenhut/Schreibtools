@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -23,9 +24,10 @@ namespace Schreibtools
         {
             this.Strichstärke = Strichstärke;
         }
+        public Stift() { }
         public string SchreibeText(string text)
         {
-
+            return Console.WriteLine($"({Typ}, {Strichstärke}, {Farbe}){text}");
         }
     }
 }
