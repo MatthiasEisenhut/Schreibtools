@@ -19,10 +19,10 @@ namespace Schreibtools
             l1.Add(b2);
             l1.Add(k1);
             l1.Add(k2);
-            b1.SchreibeText("Hallo");
-            b2.SchreibeText("Hallo");
-            k1.SchreibeText("Hallo");
-            k2.SchreibeText("Hallo");
+            Console.WriteLine(b1.SchreibeText("Hallo"));
+            Console.WriteLine(b2.SchreibeText("Hallo"));
+            Console.WriteLine(k1.SchreibeText("Hallo"));
+            Console.WriteLine(k2.SchreibeText("Hallo"));
             Console.ReadKey();
         }
     }

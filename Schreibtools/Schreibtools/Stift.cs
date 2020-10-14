@@ -27,7 +27,8 @@ namespace Schreibtools
         public Stift() { }
         public string SchreibeText(string text)
         {
-            return Console.WriteLine($"({Typ}, {Strichstärke}, {Farbe}){text}");
+            return $"({Typ}, {Strichstärke}, {Farbe}){text}";
         }
+
     }
 }
