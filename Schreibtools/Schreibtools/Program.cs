@@ -23,6 +23,10 @@ namespace Schreibtools
             Console.WriteLine(b2.SchreibeText("Hallo"));
             Console.WriteLine(k1.SchreibeText("Hallo"));
             Console.WriteLine(k2.SchreibeText("Hallo"));
+            foreach(var item in l1)
+            {
+                Console.WriteLine("Es ist Herbst!");
+            }
             Console.ReadKey();
         }
     }
